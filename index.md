@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to AI PROFICIENCY
 
-You can use the [editor on GitHub](https://github.com/xexax/aiproficiency/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can test your AI proficiency here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
